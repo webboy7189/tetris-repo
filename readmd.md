@@ -4,6 +4,8 @@ original url:https://www.youtube.com/watch?v=uoR4ilCWwKA
 
 directions:
 
+download tetris-repo-main.zip
+
 I did not include executable file because of obvious concerns...
 
 make tetris project on python
@@ -12,7 +14,7 @@ copy included sound and music file to tetris project.
 
 install pygame to tetris project
 
-run main.py on python...
+run included file main.py ...
 
 game keys:
 
